@@ -1,0 +1,5 @@
+{
+  "name": "DropMetric - Contact Angle Analyzer",
+  "description": "Professional tool for measuring droplet contact angles and sizes using AI and manual precision tools.",
+  "requestFramePermissions": ["camera"]
+}
